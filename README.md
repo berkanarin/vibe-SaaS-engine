@@ -25,7 +25,7 @@ Depoda yer alan her bir `.md` dosyası, yapay zeka asistanının zihninde farkl�
 
 ## 🛠️ Nasıl Kullanılır? (Workflow)
 
-Bu depoyu bilgisayarınızdaki ana geliştirme dizinine (Örn: `C:\py\`) klonlayın.
+Bu depoyu bilgisayarınızdaki ana geliştirme dizinine klonlayın.
 
 ### Senaryo A: Sıfırdan Yeni Proje Üretimi
 1. Projenizin üst dizini olan ana klasörü Cursor/VS Code ile açın (böylece AI tüm `.md` kılavuzlarını tarayabilir).
@@ -37,9 +37,3 @@ Bu depoyu bilgisayarınızdaki ana geliştirme dizinine (Örn: `C:\py\`) klonlay
 2. AI'ın kod yazmasını engelleyin; size sunacağı **Bilişsel Simülasyon Raporunu** ve **Refactor Yol Haritasını** inceleyin.
 3. Yol haritasını onayladıktan sonra sırasıyla tek cümlelik emirlerle cerrahi müdahaleyi başlatın:
    > *"Raporu onaylıyorum. Şimdi Milestone 1 (Veri ve Güvenlik) kodlarını üretmeye başla."*
-
----
-
-## ⚖️ Lisans
-
-Bu proje açık kaynaklıdır ve her geliştiricinin AI ile premium SaaS ürünleri üretebilmesi için özgürce kullanılabilir, genişletilebilir ve modifiye edilebilir.
